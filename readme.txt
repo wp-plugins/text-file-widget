@@ -23,6 +23,7 @@ End-of-line characters are displayed as HTML \"Breaks\"
 
 == Installation ==
 There are three possibilities:
+
 *Use the standard Wordpress Plugins > "Add New" procedure (Recommended)
 or
 
@@ -44,7 +45,7 @@ Now there will be a \"text file widget\" in the Appearance>Widgets section. Drag
 You can have multiple instances displaying different files. 
 
 == Frequently Asked Questions ==
-= Why is HTML stripped out?=
+Why is HTML stripped out?
 
 This plugin is only intended to display text. Hence the name.
 
