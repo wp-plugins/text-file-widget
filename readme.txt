@@ -15,7 +15,7 @@ This simple plugin allows you to display the contents of a text file as a widget
 
 Only text is displayed - HTML is stripped out.
 
-Displays end-of-line characters as HTML Breaks 
+End-of-line characters are displayed as HTML "Breaks" 
 
 == Installation ==
 There are three possibilities:
