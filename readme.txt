@@ -4,7 +4,7 @@ Tags: Text File, Widget
 Donate link: http://www.http://q292u.com/plugins/text-file-widget/
 Requires at least: 3.7
 Tested up to: 4.2.2
-Stable tag: trunk
+Stable tag: 1.2
 License: GPL v2 or Later
 
 Displays the contents of a text file as a widget

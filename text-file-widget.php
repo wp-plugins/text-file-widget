@@ -1,12 +1,12 @@
 <?php
 /**
 * @package TextFileWidget
-* @version 1.1
+* @version 1.2
 */
 /* Plugin Name: Text File Widget 
 Plugin URI: http://www.q292u.com
 Description: Display contents of a text file as a sidebar widget
-Version: 1.1
+Version: 1.2
 Author: Paul Rak
 Author URI: http://www.q292u.com
 */
