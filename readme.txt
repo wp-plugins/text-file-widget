@@ -1,7 +1,7 @@
 === Text File Widget ===
 Contributors: q292u
 Tags: Text File, Widget
-Donate link: http://www.http://q292u.com/plugins/text-file-widget/
+Donate link: http://www.q292u.com/plugins/text-file-widget/
 Requires at least: 3.7
 Tested up to: 4.2.2
 Stable tag: 1.2
