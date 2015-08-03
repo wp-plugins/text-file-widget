@@ -6,7 +6,7 @@ Plugin URI: http://www.q292u.com/plugins/text-file-widget/
 Donate link: http://www.q292u.com/plugins/text-file-widget
 Requires at least: 3.7
 Tested up to: 4.2.3
-Stable tag: 1.2
+Stable tag: 1.21
 
 Displays the contents of a text file as a widget
 
