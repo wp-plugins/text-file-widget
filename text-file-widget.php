@@ -4,11 +4,12 @@
 * @version 1.21
 */
 /* Plugin Name: Text File Widget 
-Plugin URI: http://www.q292u.com
+Plugin URI: http://www.q292u.com/plugins/text-file-widget
+Author URI: http://www.q292u.com
 Description: Display contents of a text file as a sidebar widget
 Version: 1.21
 Author: Paul Rak
-Author URI: http://www.q292u.com
+
 */
 
 class TextFileWidget extends WP_Widget {
