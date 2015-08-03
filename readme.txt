@@ -1,10 +1,12 @@
 === Text File Widget ===
 Contributors: q292u
 Tags: Text File, Widget
-Donate link: http://www.q292u.com/plugins/text-file-widget/
+Donate link: http://http://q292u.com/plugins/text-file-widget/
+Author URI: http://www.q292u.com/
+Plugin URI: http://www.q292u.com/plugins/text-file-widget/
 Requires at least: 3.7
 Tested up to: 4.2.2
-Stable tag: 1.2
+Stable tag: trunk
 License: GPL v2 or Later
 
 Displays the contents of a text file as a widget
