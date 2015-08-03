@@ -1,23 +1,20 @@
 === Text File Widget ===
 Contributors: q292u
 Tags: Text File, Widget
-Donate link: http://http://q292u.com/plugins/text-file-widget/
 Author URI: http://www.q292u.com/
 Plugin URI: http://www.q292u.com/plugins/text-file-widget/
+Donate link: http://www.q292u.com/plugins/text-file-widget
 Requires at least: 3.7
-Tested up to: 4.2.2
-Stable tag: trunk
-License: GPL v2 or Later
+Tested up to: 4.2.3
+Stable tag: 1.2
 
 Displays the contents of a text file as a widget
 
 == Description ==
-
 This simple plugin allows you to display the contents of a text file as a widget, in any widgetized area provided by your theme (eg Sidebar)
-
+There are no configuration options for this plugin - all configuration (such as there is) is done by the widget settings.
 Only text is displayed - HTML is stripped out.
-
-End-of-line characters are displayed as HTML "Breaks" 
+End-of-line characters are displayed as HTML \"Breaks\" 
 
 == Installation ==
 There are three possibilities:
@@ -36,8 +33,7 @@ Now there will be a \"text file widget\" in the Appearance>Widgets section. Drag
 You can have multiple instances displaying different files. 
 
 == Frequently Asked Questions ==
-= Why is HTML stripped out? =
-
+Why is HTML stripped out?
 This plugin is only intended to display text. Hence the name.
 
 == Screenshots ==
@@ -45,4 +41,8 @@ This plugin is only intended to display text. Hence the name.
 2. This is the widget in action
 
 == Changelog ==
+1.2 - Corrected readme.txt
 1.0 - Initial working version
+
+== Upgrade Notice ==
+Old versions of this plugin will not be supported. If you want any kind of support for this plugin, please use the latest version.
