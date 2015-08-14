@@ -6,7 +6,7 @@ Plugin URI: http://www.q292u.com/plugins/text-file-widget/
 Donate link: http://www.q292u.com/plugins/text-file-widget
 Requires at least: 3.7
 Tested up to: 4.2.3
-Stable tag: 1.21
+Stable tag: 2.0
 License: GPLv2 or later
 
 Displays the contents of a text file as a widget
@@ -55,6 +55,7 @@ This plugin is only intended to display text. Hence the name.
 2. This is the widget in action
 
 == Changelog ==
+2.0 - Added WordPress 4.3 Compatibility
 1.2 - Corrected readme.txt
 
 1.0 - Initial working version

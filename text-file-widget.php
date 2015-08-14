@@ -7,23 +7,14 @@
 Plugin URI: http://www.q292u.com/plugins/text-file-widget
 Author URI: http://www.q292u.com
 Description: Display contents of a text file as a sidebar widget
-Version: 1.21
+Version: 2.00
 Author: Paul Rak
 
 */
 
 class TextFileWidget extends WP_Widget {
           function TextFileWidget() {
-                    $widget_ops = array(
-                    'classname' => 'TextFileWidget',
-                    'description' => 'Display contents of a text file as a sidebar widget'
-          );
-
-          $this->WP_Widget(
-                    'TextFileWidget',
-                    'Text File Widget',
-                    $widget_ops
-          );
+	                parent::WP_Widget(false, $name = __('Text File Widget', 'TextFileWidget') );
 } //end function textfilewidget
 
 function widget($args, $instance) { // widget sidebar output
