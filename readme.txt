@@ -56,6 +56,7 @@ This plugin is only intended to display text. Hence the name.
 
 == Changelog ==
 2.0 - Added WordPress 4.3 Compatibility
+
 1.2 - Corrected readme.txt
 
 1.0 - Initial working version
