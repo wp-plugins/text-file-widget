@@ -5,7 +5,7 @@ Author URI: http://www.q292u.com/
 Plugin URI: http://www.q292u.com/plugins/text-file-widget/
 Donate link: http://www.q292u.com/plugins/text-file-widget
 Requires at least: 3.7
-Tested up to: 4.3 Beta 4
+Tested up to: 4.3
 Stable tag: 2.0
 License: GPLv2 or later
 
